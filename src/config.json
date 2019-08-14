@@ -1,14 +1,14 @@
 {
-    "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
-    "desktopappname": "Moodle Desktop",
-    "versioncode": 3700,
-    "versionname": "3.7.0",
+    "app_id": "go.id.bpsdm.jakarta.bpsdmdkicorpu",
+    "appname": "BPSDM DKI Corpu (e-Learning)",
+    "desktopappname": "BPSDM DKI Corpu (e-Learning)",
+    "versioncode": 1000,
+    "versionname": "1.0.0",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "id",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -56,21 +56,10 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
+    "demo_sites": {},
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "http://elearning.klakklik.id/mdl",
+    "sitename": "BPSDM DKI E-Learning",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
